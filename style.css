@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.uptab {
+    height: 50px;
+    width: auto;
+    background-color: #605F5F;
+}
+
+.title {
+    text-decoration: none;
+    margin-left: 30px;
+    color: yellowgreen;
+    font-size: 40px;
+}
+
+.home-button {
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.home-button:hover {
+    cursor: pointer;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.news-button {
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.news-button:hover {
+    cursor: pointer;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.download-button {
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.download-button:hover {
+    cursor: pointer;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.about-button {
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.about-button:hover {
+    cursor: pointer;
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.error404 {
+    margin: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.go-back {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    border-color: greenyellow;
+    font-size: 20px;
+}
+
+.go-back:hover {
+    cursor: pointer;
+}
+
+.download-button-down {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    border-color: greenyellow;
+    font-size: 20px;
+}
+
+.download-button-down:hover {
+    cursor: not-allowed;
+}
+
+.main-page-news {
+    margin: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 100px;
+    height: 100px;
+    width: 400px;
+    background-color: #605F5F;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.main-page-news:hover {
+    cursor: not-allowed;
+}
+
+.main-text-news {
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.main-text-news:hover {
+    cursor: not-allowed;
+}
