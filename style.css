@@ -6,7 +6,9 @@
 
 body {
     font-family: Helvetica, sans-serif;
-    background: url(background.jpg);
+    background: url(background.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .uptab {
